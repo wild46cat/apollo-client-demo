@@ -1,0 +1,1 @@
+{"appId": "test01", "cluster": "default", "namespaceName": "application", "configurations": {"timeout": "222", "password": "1234567", "jsonBeanProperty": "[{\n    \"name\":\"aaa\",\"age\":12\n},\n{\"name\":\"bbb\",\"age\":13},\n{\"name\":\"ccc\",\"age\":14}]", "url": "10.10.10.10"}, "releaseKey": "20200423150047-a0e155b52c76e86f"}

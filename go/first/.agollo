@@ -1,0 +1,1 @@
+{"application":{"jsonBeanProperty":"[{\n    \"name\":\"aaa\",\"age\":12\n},\n{\"name\":\"bbb\",\"age\":13},\n{\"name\":\"ccc\",\"age\":14}]","password":"1234567","timeout":"222","url":"10.10.10.10"},"mysql":{"password":"123","url":"192.168.1.12"}}
